@@ -1,4 +1,4 @@
-# Pedestrian mask-wearing tracking using the improved Yolov5s-5.0 & DeepSORT
+# Pedestrian mask-wearing tracking using the improved Yolov5s-6.0 & DeepSORT
 
 ## Introduction
 
